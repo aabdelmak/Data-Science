@@ -1,1 +1,1 @@
-# Data-Science
+# Stanford Machine Learning Course by Andrew Ng
