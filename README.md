@@ -28,4 +28,6 @@ Files for building functions that:
 - Use the network to classify out-of-sample digits.
 
 ## Exercise 4 - Neural Networks: learning (Week 5)
-to be added...
+- Implement a Feed-forward Neural Network using backprpagation from scratch to classify hand-written digits.
+- Use Finite-Differences method for Gradient Checking.
+- Enhance Neural Network performance and avoid over-fitting by implementing regularization.
