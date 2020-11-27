@@ -18,7 +18,7 @@ Files for building functions that:
 - Implement a regularized version of Logistic Regression by using a modified cost function.  
 - Deploy and use Logistic Regression to make out-of-sample predictions.
 
-## Exercise 3 - Neural Networks: Representation (Week 4)
+## Week 4 - Neural Networks: Representation (Exercise 3)
 Files for building functions that:
 - Build multi-class classifier composed of multiple linear regressions
 - transform the data using a sigmoid link function to produce logistic regression
@@ -27,7 +27,7 @@ Files for building functions that:
 - Train the neural network weights and biases on hand-written digits, storing the weights in a matrix
 - Use the network to classify out-of-sample digits.
 
-## Exercise 4 - Neural Networks: learning (Week 5)
+## Week 5 - Neural Networks: learning (Exercise 4)
 - Implement a Feed-forward Neural Network using backprpagation from scratch to classify hand-written digits.
 - Use Finite-Differences method for Gradient Checking.
 - Enhance Neural Network performance and avoid over-fitting by implementing regularization.
