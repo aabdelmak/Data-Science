@@ -32,9 +32,9 @@ Files for building functions that:
 - Use Finite-Differences method for Gradient Checking.
 - Enhance Neural Network performance and avoid over-fitting by implementing regularization.
 
-## Week 6 - 
-- Implement regularized linear regression and use learning and validation curves to Debug learning algorithm.
-- Compute and normalize polynomial features to experiment with polynomial regressions of various degrees, d, and determine the most appropriate value of d based on the  bias-variance tradeoff.
-- Experiment with multiple regularization parameters and use the learning and validation curves to determine optimal bias-variance trade-off.
-- 
+## Week 6 - Advice for Applying Machine Learning (Exercise 5)
+- Implement regularized linear regression to forecast water flow over a dam and use learning and validation curves to evaluate and debug its performance.
+- Compute and normalize polynomial features to experiment with polynomial regressions of various degrees, *d*, and use the cross-validation set to determine which value of *d* produces the optimal trade-off between bias-variance.
+- Experiment with multiple regularization parameters, *lambda*, and plot the learning and validation curves to determine which value produces the optimal bias-variance trade-off.
+
 
