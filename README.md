@@ -31,3 +31,10 @@ Files for building functions that:
 - Implement a Feed-forward Neural Network using backprpagation from scratch to classify hand-written digits.
 - Use Finite-Differences method for Gradient Checking.
 - Enhance Neural Network performance and avoid over-fitting by implementing regularization.
+
+## Week 6 - 
+- Implement regularized linear regression and use learning and validation curves to Debug learning algorithm.
+- Compute and normalize polynomial features to experiment with polynomial regressions of various degrees, d, and determine the most appropriate value of d based on the  bias-variance tradeoff.
+- Experiment with multiple regularization parameters and use the learning and validation curves to determine optimal bias-variance trade-off.
+- 
+
