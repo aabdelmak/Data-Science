@@ -10,7 +10,7 @@ Files for building functions that:
 - Normalise features to enhance Gradient Descent's convergence. 
 - Use multivariate linear regression to make out-of-sample predictions.
 
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/gradientcurve.png), ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/levelcurve.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/gradientcurve.png)
 
 
 ## Week 3 - Logistic Regression (Exercise 2) 
