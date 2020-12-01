@@ -1,5 +1,8 @@
 # Stanford Machine Learning Course by Andrew Ng
 
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/mnistviz.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/ex5graph.png)
+
 This repository holds my completed Octave/Matlab code for the exercises in the course. 
 
 
