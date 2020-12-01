@@ -1,8 +1,4 @@
 # Stanford Machine Learning Course by Andrew Ng
-
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/mnistviz.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/ex5graph.png)
-
 This repository holds my completed Octave/Matlab code for the exercises in the course. 
 
 
@@ -35,11 +31,17 @@ Files for building functions that:
 - Use Finite-Differences method for Gradient Checking.
 - Enhance Neural Network performance and avoid over-fitting by implementing regularization.
 
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/mnistviz.png)
+
+
 ## Week 6 - Advice for Applying Machine Learning (Exercise 5)
 - Train a regularized linear regression to forecast water flow over a dam using various proportions of the training data.
 - Plot the learning and validation curves to evaluate and debug the model's performance on the training and cross-validation sets.
 - Compute and normalize polynomial features to experiment with polynomial regressions of various degrees, *d*, and use the cross-validation set to determine which value of *d* produces the optimal trade-off between bias and variance.
 - Experiment with multiple regularization parameters, *lambda*, and plot the learning and validation curves to determine which value produces the optimal bias-variance trade-off.
 - Compute and plot test-set error against cross-validation error to determine how well selected values of *lambda* and *d* generalize.  
+
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/ex5graph.png)
+
 
 
