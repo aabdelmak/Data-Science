@@ -10,12 +10,18 @@ Files for building functions that:
 - Normalise features to enhance Gradient Descent's convergence. 
 - Use multivariate linear regression to make out-of-sample predictions.
 
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/gradientcurve.png), ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/levelcurve.png)
+
+
 ## Week 3 - Logistic Regression (Exercise 2) 
 Files for building functions that:
 - Implement Gradient Descent on an appropriate cost function. 
 - Explore and discover appropriate weights with-which to regularise the Logistic Regression. 
 - Implement a regularized version of Logistic Regression by using a modified cost function.  
 - Deploy and use Logistic Regression to make out-of-sample predictions.
+
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/logisticClassifier.png)
+
 
 ## Week 4 - Neural Networks: Representation (Exercise 3)
 Files for building functions that:
@@ -25,6 +31,9 @@ Files for building functions that:
 - Build a Feed-forward neural network with three layers.
 - Train the neural network weights and biases on hand-written digits, storing the weights in a matrix
 - Use the network to classify out-of-sample digits.
+
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/mnistagain.png)
+
 
 ## Week 5 - Neural Networks: learning (Exercise 4)
 - Implement a Feed-forward Neural Network using backprpagation from scratch to classify hand-written digits.
