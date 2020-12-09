@@ -53,4 +53,18 @@ Files for building functions that:
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/ex5graph.png)
 
 
+## Week 7 - Advice for Applying Machine Learning (Exercise 6)
+- Train a linear support vector machine (SVM) on a 2-dimensional example dataset to separate observations into two classes.
+- Experiment with the effect of various values of the regularization term, C, to see how this affects classification accuracy.
+- Train a support vector machine with radial-basis function kernel to classify 2-dimensional example dataset. 
+- Test different regularization values, C, on cross-validation set to determine the optimal "softness" for classifier margins.
+- Test different parameter values, sigma, for the rbf-kernel to determine optimal sensitivity of similarity metric to distance between observations.
+- After preprocessing email data, create a feature vector with binary entries corresponding to whether each of the most frequently occurring words in our training set occurs in a given email.
+- Further transform these features according to the rbf-kernel to acquire feature vectors that are to be used for training SVM.
+- Train SVM to classify spam, testing different values of C and sigma on cross-validation set to determine their optimal values.
+
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/svm3.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/svm2.png)
+
+
 
