@@ -64,7 +64,7 @@ Files for building functions that:
 - Train SVM to classify spam, testing different values of C and sigma on cross-validation set to determine their optimal values.
 
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/svm3.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/svm2.png)
+
 
 
 
