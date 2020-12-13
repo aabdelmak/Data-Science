@@ -25,11 +25,11 @@ Files for building functions that:
 
 ## Week 4 - Neural Networks: Representation (Exercise 3)
 Files for building functions that:
-- Build multi-class classifier composed of multiple linear regressions
-- transform the data using a sigmoid link function to produce logistic regression
+- Build multi-class classifier composed of multiple linear regressions.
+- Transform the data using a sigmoid link function to produce logistic regression.
 - Deploy the "One vs. All" method to classify handwritten digits and make out-of-sample classifications.
 - Build a Feed-forward neural network with three layers.
-- Train the neural network weights and biases on hand-written digits, storing the weights in a matrix
+- Train the neural network weights and biases on hand-written digits, storing the weights in a matrix.
 - Use the network to classify out-of-sample digits.
 
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/mnistagain.png)
