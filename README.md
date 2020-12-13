@@ -65,6 +65,8 @@ Files for building functions that:
 
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/svm2.png)
 
-
-
+## Week 8 - Advice for Applying Machine Learning (Exercise 7)
+- Implement the K-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image. 
+- Use principal component analysis (PCA) to perform dimensionality reduction on a dataset of 5000 face images and visualize the result.
+- Project 3-Dimensional data into a 2 Dimensionsional feature space using PCA implementation to make visualization less cumbersome. 
 
