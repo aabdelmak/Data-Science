@@ -69,11 +69,17 @@ Files for building functions that:
 - Implement the K-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image. 
 - Use principal component analysis (PCA) to perform dimensionality reduction on a dataset of 5000 face images and visualize the result.
 - Project 3-Dimensional data into a 2 Dimensionsional feature space using PCA implementation to make visualization less cumbersome. 
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/pcascatter1.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/pcascatter2.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/pca1.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/pca2.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/imageCompress.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/faces1.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/scatterpca.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/scatterpca2.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/faces4.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/faces3.png)
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/faces2.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/faces.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/dimreducedfaces.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/pca1.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/dimreducedfaces.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/imageCompressed.png)
+
+
+
 
