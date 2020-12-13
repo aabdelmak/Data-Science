@@ -72,8 +72,8 @@ Files for building functions that:
 
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/imageCompressed.png)
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/faces4.png)
-![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/scatterpca.png)
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/scatterpca2.png)
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/scatterpca.png)
 
 
 
