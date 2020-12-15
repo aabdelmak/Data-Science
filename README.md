@@ -34,7 +34,6 @@ Files for building functions that:
 
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/mnistagain.png)
 
-
 ## Week 5 - Neural Networks: learning (Exercise 4)
 - Implement a Feed-forward Neural Network using backprpagation from scratch to classify hand-written digits.
 - Use Finite-Differences method for Gradient Checking.
@@ -81,3 +80,4 @@ Files for building functions that:
 - Determine appropriate threshold value by estimating Gaussian densities with various values and comparing their relative performances using the F1-Score on the cross-validation set.
 - Use a collaborative filtering algorithm to develop a movie recommender system that uses data on movie ratings by users to discover both features and parameters relevant to the task.
 - Train movie recommender system on own movie preferences and ratings to produce appropriate recommendations. 
+![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/AnomalyDetection2.png)
