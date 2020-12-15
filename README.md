@@ -76,4 +76,8 @@ Files for building functions that:
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/scatterpca.png)
 
 
-
+## Week 9 - Advice for Applying Machine Learning (Exercise 8)
+- Implement a Gaussian density anomaly detection algorithm to detect anomalous behavior in server computers. 
+- Determine appropriate threshold value by estimating Gaussian densities with various values and comparing their relative performances using the F1-Score on the cross-validation set.
+- Use a collaborative filtering algorithm to develop a movie recommender system that uses data on movie ratings by users to discover both features and parameters relevant to the task.
+- Train movie recommender system on own movie preferences and ratings to produce appropriate recommendations. 
