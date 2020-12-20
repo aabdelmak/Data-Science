@@ -52,7 +52,7 @@ Files for building functions that:
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/ex5graph.png)
 
 
-## Week 7 - Advice for Applying Machine Learning (Exercise 6)
+## Week 7 - Support Vector Machines (Exercise 6)
 - Train a linear support vector machine (SVM) on a 2-dimensional example dataset to separate observations into two classes.
 - Experiment with the effect of various values of the regularization term, C, to see how this affects classification accuracy.
 - Train a support vector machine with radial-basis function kernel to classify 2-dimensional example dataset. 
@@ -64,7 +64,7 @@ Files for building functions that:
 
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/svm2.png)
 
-## Week 8 - Advice for Applying Machine Learning (Exercise 7)
+## Week 8 - K-Means Algorithm and Principle Component Analysis for Unsupervised Learning and Dimensionality Reduction (Exercise 7)
 - Implement the K-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image. 
 - Use principal component analysis (PCA) to perform dimensionality reduction on a dataset of 5000 face images and visualize the result.
 - Project 3-Dimensional data into a 2 Dimensionsional feature space using PCA implementation to make visualization less cumbersome. 
@@ -75,7 +75,7 @@ Files for building functions that:
 ![Scatter Plot](https://github.com/aabdelmak/Machine-Learning/blob/master/scatterpca.png)
 
 
-## Week 9 - Advice for Applying Machine Learning (Exercise 8)
+## Week 9 - Anomaly Detection, Recommender Systems, and Kernel Methods (Exercise 8)
 - Implement a Gaussian density anomaly detection algorithm to detect anomalous behavior in server computers. 
 - Determine appropriate threshold value by estimating Gaussian densities with various values and comparing their relative performances using the F1-Score on the cross-validation set.
 - Use a collaborative filtering algorithm to develop a movie recommender system that uses data on movie ratings by users to discover both features and parameters relevant to the task.
